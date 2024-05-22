@@ -39,9 +39,15 @@ class Label(Area):
 
 RED = (255, 0, 0)
 GREEN = (0, 255, 51)
+BLUE = (0, 0, 255)
+ORANGE = (255, 123, 0)
+WHITE = (255, 255, 255)
 YELLOW = (255, 255, 0)
+LIGHT_GREEN = (200, 255, 200)
+LIGHT_RED = (250, 128, 114)
+BLACK = (0, 0, 0)
 DARK_BLUE = (0, 0, 100)
-BLUE = (80, 80, 255)
+LIGHT_BLUE = (80, 80, 255)
 
 
 cards = []
